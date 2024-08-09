@@ -44,31 +44,59 @@ _(Product Development’s unit primary responsibilities are conducting deep rese
 - Successfully organize 121 Internet Safety classes for Vietnamese students.
 
 ## Data Analytics Projects
-### Retail store analysis
-**QUANTIUM'S VIRTUAL EXPERIENCE | PYTHON**
+### RETAIL STORE ANALYSIS
+QUANTIUM'S VIRTUAL EXPERIENCE | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/retail_store)
 
 Cleaned raw data, analysed transaction and customer data, developed metrics, examined sales drivers, identified benchmark stores for conducting uplift testing on trial store layouts and performed statistical analysis to assess sales differences.
 
-### Manufacturing data analysis
-**DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU** 
+### MANUFACTURING DATA ANALYSIS
+DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
 
 Reconciled data, created a dashboard and advised a client on a data breach.
 
-### GARCH model 
-**STATISTIC | MATLAB**
+### GARCH MODEL 
+STATISTIC | MATLAB
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/GARCH-model)
 
 Built GARCH model using **Monte Carlo Markov Chain and Variational Bayesian inference with a Gaussian posterior approximation**.
 
-### A discrete choice analysis of sustainable beer customers & preferences
-**CHOICE MODELLING | PYTHON**
+### SUSTAINABLE BEER CUSTOMER ANALYSIS
+CHOICE MODELLING | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/choice-modelling)
 
-Analysed survey data using discrete choice modelling techniques (employing Biogeme library) to understand how likely individuals are to purchase sustainable beer based on their characteristics.
+Analysed survey data using **discrete choice modelling techniques** (employing Biogeme library) to understand how likely individuals are to purchase sustainable beer based on their characteristics.
+
+### TIME-SERIES ANALYSIS OF GOOGLE KEYWORDS 
+TIME-SERIES FORECASTING | PYTHON 
+
+[View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/time-series)
+
+Created an automatic function that selects a model that produces the least forecast error i.e., MAE for each time series. The function compares several time-series models including random walk, seasonal random walk, simple exponential smoothing, Holt's linear trend method, Holt-Winters' additive and multiplicative method, Holt-Winters’ damped method, ARIMA as well as Holt-Winters' additive and ARIMA with log transformation of time series. 
+
+### CREDIT RATING ANALYSIS 
+REGRESSION | PYTHON
+
+[View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/credit-rating)
+
+Applied **linear regression, k-nearest neighbour regression, and logistic regression** (using SciPy, Scikit-learn and Statsmodels library) to predict the credit rating of firms.
+
+### FUEL ECONOMY ANALYSIS 
+REGRESSION & VARIABLE TRANSFORMATION | PYTHON
+
+[View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/fuel-economy)
+
+Applied **multilinear regression, nonlinear regression and variable transformation** (using Pandas, Matplotlib, Seaborn and Statsmodels library) to understand the drivers of fuel economy as well as predict fuel economy in a large range of vehicles for private consumer, organisational and government use in the US.
+
+### PORTFOLIO ALLOCATION 
+FINANCIAL ANALYSIS | PYTHON
+
+[View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/portfolio-allocation)
+
+Visualised the investment opportunity set and the efficient frontier of 5 stocks using the Matplotlib library. 
 
 ## Finance Projects 
 
