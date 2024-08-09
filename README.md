@@ -57,6 +57,7 @@ Cleaned raw data, analysed transaction and customer data, developed metrics, exa
 DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
 
 [View Certificate](https://drive.google.com/file/d/1QRTrTvt6hfJoZCb377Fu7pEPdpbuNEMS/view?usp=sharing)
+
 Reconciled data, created a dashboard and advised a client on a data breach.
 
 ### GARCH MODEL 
@@ -118,7 +119,7 @@ Collected, prepared, and analysed data, and provided insights and recommendation
 ### CYBERTEACH 
 AN ADAPTIVE CYBERSECURITY TRAINING SOLUTION 
 
-[View Project]()
+[View Project](https://lynhtrann22.github.io/cyberteach/)
 
 As a team of innovative consultants, we came up with a solution to address the need to train employees in cybersafe behaviours and enhance their cybersecurity awareness in organisations.
 
