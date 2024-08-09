@@ -134,20 +134,20 @@ In teams, we developed innovation to solve the grand challenges of the high rate
 ![Image](/assets/img/download_8.png)
 
 ## Professional Certifications 
-### [Quantium Data Analytics Job Simulation](https://drive.google.com/file/d/1QRTrTvt6hfJoZCb377Fu7pEPdpbuNEMS/view?usp=sharing)
+#### [Quantium Data Analytics Job Simulation](https://drive.google.com/file/d/1YrI-sqmZwFKl1Zw-ziRIgwMsJuv00gNi/view?usp=sharing)
 FORAGE | MAR 2024 
 
-### GHD Job Advisory Simulation 
+#### [GHD Job Advisory Simulation](https://drive.google.com/file/d/1cEK3uIQsYpysJoSJNY2IrHrnHV6XHI3l/view?usp=sharing) 
 FORAGE | MAR 2024 
 
-### Deloitte Australia Technology Job Simulation 
+#### [Deloitte Australia Technology Job Simulation](https://drive.google.com/file/d/1QRTrTvt6hfJoZCb377Fu7pEPdpbuNEMS/view?usp=sharing)
 FORAGE | DEC 2023 
 
-### Python Data Science Toolbox
+#### [Python Data Science Toolbox](https://www.datacamp.com/completed/statement-of-accomplishment/course/a5b857c3f8812e587e1760f17310797f9ef78e9e?utm_source=customerio&utm_medium=email&utm_campaign=230517_1-coursetrackcomplete_2-mix_3-all_4-na_5-na_6-coursetrack_7-le_8-emal-ci_9-na_10-bau_11-email&utm_content=auto)
 DATACAMP | DEC 2023 
 
-### Intermediate Data Visualization with Python
+#### [Intermediate Data Visualization with Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/d20518c3c82687845e7505f2029a4868fbf47b39?utm_source=customerio&utm_medium=email&utm_campaign=230517_1-coursetrackcomplete_2-mix_3-all_4-na_5-na_6-coursetrack_7-le_8-emal-ci_9-na_10-bau_11-email&utm_content=auto)
 DATACAMP | DEC 2023
 
-### Intermediate SQL
+#### [Intermediate SQL](https://www.datacamp.com/completed/statement-of-accomplishment/course/59924d0030a12b87e03ef57c2c6c16eb31e1dc9e)
 DATACAMP | FEB 2022 
