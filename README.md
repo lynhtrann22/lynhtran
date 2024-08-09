@@ -56,6 +56,7 @@ Cleaned raw data, analysed transaction and customer data, developed metrics, exa
 ### MANUFACTURING DATA ANALYSIS
 DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
 
+[View Certificate](https://drive.google.com/file/d/1QRTrTvt6hfJoZCb377Fu7pEPdpbuNEMS/view?usp=sharing)
 Reconciled data, created a dashboard and advised a client on a data breach.
 
 ### GARCH MODEL 
