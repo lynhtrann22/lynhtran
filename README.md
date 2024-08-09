@@ -51,7 +51,7 @@ QUANTIUM'S VIRTUAL EXPERIENCE | PYTHON
 
 Cleaned raw data, analysed transaction and customer data, developed metrics, examined sales drivers, identified benchmark stores for conducting uplift testing on trial store layouts and performed statistical analysis to assess sales differences.
 
-![Graph](/assets/img/download.png)
+![Graph](/assets/img/download_1.png)
 
 ### MANUFACTURING DATA ANALYSIS
 DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
