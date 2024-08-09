@@ -56,7 +56,7 @@ DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
 
 [View Certificate](https://drive.google.com/file/d/1QRTrTvt6hfJoZCb377Fu7pEPdpbuNEMS/view?usp=sharing)
 
-Reconciled data, created a dashboard and advised a client on a data breach.
+Reconciled data, created a dashboard, wrote a proposal for a client project to create a functioning dashboard and advised a client on a data breach.
 
 ### GARCH MODEL 
 STATISTIC | MATLAB
@@ -77,7 +77,7 @@ TIME-SERIES FORECASTING | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/time-series)
 
-Created an automatic function that selects a model that produces the least forecast error i.e., MAE for each time series. The function compares several time-series models including random walk, seasonal random walk, simple exponential smoothing, Holt's linear trend method, Holt-Winters' additive and multiplicative method, Holt-Winters’ damped method, ARIMA as well as Holt-Winters' additive and ARIMA with log transformation of time series. 
+Created **an automatic function that selects a model** that produces the least forecast error i.e., MAE for each time series. The function compares several time-series models including random walk, seasonal random walk, simple exponential smoothing, Holt's linear trend method, Holt-Winters' additive and multiplicative method, Holt-Winters’ damped method, ARIMA as well as Holt-Winters' additive and ARIMA with log transformation of time series. 
 
 ![Graph](/assets/img/download_5.png)
 
@@ -102,7 +102,7 @@ FINANCIAL ANALYSIS | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/portfolio-allocation)
 
-Visualised the investment opportunity set and the efficient frontier of 5 stocks using the Matplotlib library. 
+Visualized the investment opportunity set and the efficient frontier of 5 stocks using the Matplotlib library. 
 
 ![Graph](/assets/img/download_4.png)
 
@@ -115,20 +115,20 @@ Collected, prepared, and analysed data, and provided insights and recommendation
 
 ## Innovative Projects
 ### CYBERTEACH 
-AN ADAPTIVE CYBERSECURITY TRAINING SOLUTION 
+WINNING TEAM | INNOVATIONS IN ORGANISATION S1 2022 
 
 [View Project](https://lynhtrann22.github.io/cyberteach/)
 
-As a team of innovative consultants, we came up with a solution to address the need to train employees in cybersafe behaviours and enhance their cybersecurity awareness in organisations.
+As a team of innovative consultants, we came up with a solution which is **an adaptive cybersecurity training solution** to address the need to train employees in cybersafe behaviours and enhance their cybersecurity awareness in organisations.
 
 ![Image](/assets/img/download_7.png)
 
 ### RIDE & GROW 
-ACCESS TO EDUCATION IN CAMBODIA 
+FINALIST | ENGAGE ASIA CHALLENGE S2 2022 
 
 [View Project](https://lynhtrann22.github.io/ride-grow/)
 
-In teams, we developed innovation to solve the grand challenges of the high rates of grade repetition, school dropout, and low student achievement within the context of the Cambodia remote region, addressing the UN's Sustainable Development Goals (SDGs) 4–Quality Education. 
+In teams, we developed an innovation which is **a school bike leasing service** to solve the grand challenges of the high rates of grade repetition, school dropout, and low student achievement within the context of the Cambodia remote region, addressing the UN's Sustainable Development Goals (SDGs) 4–Quality Education. 
 
 ![Image](/assets/img/download_8.png)
 
