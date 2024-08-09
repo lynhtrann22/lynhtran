@@ -35,11 +35,11 @@ _(Product Development’s unit primary responsibilities are conducting deep rese
 - Successfully designed 1 process to standardise and improve internal processes within an organisation from scratch.
 - Internal Awards: Best Team Performance in November 2021, Best Team Manager in November 2021.
 
-**CyberSchool's Marketing Communications Team Leader _(Mar 2021 - Aug 2021)_**
+**CyberSchool's Marketing Team Leader _(Mar 2021 - Aug 2021)_**
 - Created 2 online marketing campaigns and attracted 404 volunteer applications. 
 - Built 2 internal marketing campaigns and managed 64 teaching volunteers.
 
-**CyberSchool's Marketing Communications Executive _(Oct 2020 - Feb 2021)_**
+**CyberSchool's Marketing Executive _(Oct 2020 - Feb 2021)_**
 - Wrote and designed online marketing posts to recruit volunteers.
 - Successfully organize 121 Internet Safety classes for Vietnamese students.
 
