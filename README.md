@@ -80,6 +80,8 @@ TIME-SERIES FORECASTING | PYTHON
 
 Created an automatic function that selects a model that produces the least forecast error i.e., MAE for each time series. The function compares several time-series models including random walk, seasonal random walk, simple exponential smoothing, Holt's linear trend method, Holt-Winters' additive and multiplicative method, Holt-Winters’ damped method, ARIMA as well as Holt-Winters' additive and ARIMA with log transformation of time series. 
 
+![Graph](/assets/img/download_5.png)
+
 ### CREDIT RATING ANALYSIS 
 REGRESSION | PYTHON
 
@@ -87,12 +89,16 @@ REGRESSION | PYTHON
 
 Applied **linear regression, k-nearest neighbour regression, and logistic regression** (using SciPy, Scikit-learn and Statsmodels library) to predict the credit rating of firms.
 
+![Graph](/assets/img/download_2.png)
+
 ### FUEL ECONOMY ANALYSIS 
 REGRESSION & VARIABLE TRANSFORMATION | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/fuel-economy)
 
 Applied **multilinear regression, nonlinear regression and variable transformation** (using Pandas, Matplotlib, Seaborn and Statsmodels library) to understand the drivers of fuel economy as well as predict fuel economy in a large range of vehicles for private consumer, organisational and government use in the US.
+
+![Graph](/assets/img/download_3.png)
 
 ### PORTFOLIO ALLOCATION 
 FINANCIAL ANALYSIS | PYTHON
