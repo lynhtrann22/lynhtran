@@ -30,7 +30,7 @@
 
 _(Product Development’s unit primary responsibilities are conducting deep research to assist functional departments in improving and developing its internal process, market and customer)_
 - Conducted primary research (30+ interviews with students and Heads of Departments and 700+ survey responses) to collect data.
-- Analyzed data to prepare 4 research reports with recommendations for product improvement, contributing to a 362% acceleration in the number of children impacted by CyberKid Vietnam. [Reports](https://drive.google.com/drive/folders/1n5U5sVeYnMH9VbIXju6IELrWZIMZNVGq). 
+- Analyzed data to prepare 4 research reports with recommendations for product improvement, contributing to a 362% acceleration in the number of children impacted by CyberKid Vietnam. 
 - Managed a team of four members who specialised in Finance, Information Systems and Business Data Analytics.
 - Successfully designed 1 process to standardise and improve internal processes within an organisation from scratch.
 - Internal Awards: Best Team Performance in November 2021, Best Team Manager in November 2021.
