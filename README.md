@@ -96,7 +96,7 @@ REGRESSION & VARIABLE TRANSFORMATION | PYTHON
 
 Applied **multilinear regression, nonlinear regression and variable transformation** (using Pandas, Matplotlib, Seaborn and Statsmodels library) to understand the drivers of fuel economy as well as predict fuel economy in a large range of vehicles for private consumer, organisational and government use in the US.
 
-![Graph](/assets/img/download_6.png)
+![Graph](/assets/img/download_3.png)
 
 ### PORTFOLIO ALLOCATION 
 FINANCIAL ANALYSIS | PYTHON
