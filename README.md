@@ -105,6 +105,8 @@ FINANCIAL ANALYSIS | PYTHON
 
 Visualised the investment opportunity set and the efficient frontier of 5 stocks using the Matplotlib library. 
 
+![Graph](/assets/img/download_4.png)
+
 ## Finance Projects 
 
 ## Innovative Projects
