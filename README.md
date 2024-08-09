@@ -92,7 +92,7 @@ Applied **linear regression, k-nearest neighbour regression, and logistic regres
 ### FUEL ECONOMY ANALYSIS 
 REGRESSION & VARIABLE TRANSFORMATION | PYTHON
 
-[**View Project**](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/fuel-economy)
+[View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/fuel-economy)
 
 Applied **multilinear regression, nonlinear regression and variable transformation** (using Pandas, Matplotlib, Seaborn and Statsmodels library) to understand the drivers of fuel economy as well as predict fuel economy in a large range of vehicles for private consumer, organisational and government use in the US.
 
@@ -122,6 +122,8 @@ AN ADAPTIVE CYBERSECURITY TRAINING SOLUTION
 
 As a team of innovative consultants, we came up with a solution to address the need to train employees in cybersafe behaviours and enhance their cybersecurity awareness in organisations.
 
+![Image](/assets/img/download_7.png)
+
 ### RIDE & GROW 
 ACCESS TO EDUCATION IN CAMBODIA 
 
@@ -129,4 +131,23 @@ ACCESS TO EDUCATION IN CAMBODIA
 
 In teams, we developed innovation to solve the grand challenges of the high rates of grade repetition, school dropout, and low student achievement within the context of the Cambodia remote region, addressing the UN's Sustainable Development Goals (SDGs) 4–Quality Education. 
 
-## Social Activities 
+![Image](/assets/img/download_8.png)
+
+## Professional Certifications 
+### [Quantium Data Analytics Job Simulation](https://drive.google.com/file/d/1QRTrTvt6hfJoZCb377Fu7pEPdpbuNEMS/view?usp=sharing)
+FORAGE | MAR 2024 
+
+### GHD Job Advisory Simulation 
+FORAGE | MAR 2024 
+
+### Deloitte Australia Technology Job Simulation 
+FORAGE | DEC 2023 
+
+### Python Data Science Toolbox
+DATACAMP | DEC 2023 
+
+### Intermediate Data Visualization with Python
+DATACAMP | DEC 2023
+
+### Intermediate SQL
+DATACAMP | FEB 2022 
