@@ -92,7 +92,7 @@ Applied **linear regression, k-nearest neighbour regression, and logistic regres
 ### FUEL ECONOMY ANALYSIS 
 REGRESSION & VARIABLE TRANSFORMATION | PYTHON
 
-[View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/fuel-economy)
+[**View Project**](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/fuel-economy)
 
 Applied **multilinear regression, nonlinear regression and variable transformation** (using Pandas, Matplotlib, Seaborn and Statsmodels library) to understand the drivers of fuel economy as well as predict fuel economy in a large range of vehicles for private consumer, organisational and government use in the US.
 
@@ -107,8 +107,26 @@ Visualised the investment opportunity set and the efficient frontier of 5 stocks
 
 ![Graph](/assets/img/download_4.png)
 
-## Finance Projects 
+### MARKETING RESEARCH & INSIGHT REPORT 
+DATA REPORT | EXCEL & PYTHON 
+
+[View Report](https://github.com/lynhtrann22/personal_project/tree/6d52b05140b24f27c0845f435aad7ea218af0f1b/data-report)
+
+Collected, prepared, and analysed data, and provided insights and recommendations to address the inefficiency of the online marketing activities of CyberKid Vietnam.
 
 ## Innovative Projects
+### CYBERTEACH 
+AN ADAPTIVE CYBERSECURITY TRAINING SOLUTION 
+
+[View Project]()
+
+As a team of innovative consultants, we came up with a solution to address the need to train employees in cybersafe behaviours and enhance their cybersecurity awareness in organisations.
+
+### RIDE & GROW 
+ACCESS TO EDUCATION IN CAMBODIA 
+
+[View Project]()
+
+In teams, we developed innovation to solve the grand challenges of the high rates of grade repetition, school dropout, and low student achievement within the context of the Cambodia remote region, addressing the UN's Sustainable Development Goals (SDGs) 4–Quality Education. 
 
 ## Social Activities 
