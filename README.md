@@ -6,8 +6,6 @@
 - WAM: Distinction
 - Honours: Dalyell Scholar
 
-## Skills 
-
 ## Experience 
 ### USYD Student Managed Investment Fund, _Australia_
 **Quantitative Analyst _(Feb 2023 – Aug 2023)_**
@@ -128,7 +126,7 @@ As a team of innovative consultants, we came up with a solution to address the n
 ### RIDE & GROW 
 ACCESS TO EDUCATION IN CAMBODIA 
 
-[View Project]()
+[View Project](https://lynhtrann22.github.io/ride-grow/)
 
 In teams, we developed innovation to solve the grand challenges of the high rates of grade repetition, school dropout, and low student achievement within the context of the Cambodia remote region, addressing the UN's Sustainable Development Goals (SDGs) 4–Quality Education. 
 
