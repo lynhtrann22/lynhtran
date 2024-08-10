@@ -9,10 +9,9 @@
 ## Experience 
 ### USYD Student Managed Investment Fund, _Australia_
 **Quantitative Analyst _(Feb 2023 – Aug 2023)_**
-- Developed and implemented financial metrics for portfolio screening, resulting in a trading performance improvement of 2%.
+- Developed and implemented financial metrics for portfolio screening.
 - Implemented factor models to manage the portfolio’s risks.
-- Actively managed, a high-conviction, long-only, Australian equities fund (SUM of $650k) with a team of 20 high-achieving students.
-- Performed stock selection and formulated investment thesis through qualitative and quantitative valuation, specialising in IT, Media, and Communication sectors. 
+- Actively managed an Australian equities fund (SUM of $650k), specialising in IT, Media, and Communication sectors. 
 
 ### CyberKid Vietnam, _Vietnam_  
 **Innovation Executive _(May 2022 – Aug 2022)_**
@@ -28,10 +27,9 @@
 
 _(Product Development’s unit primary responsibilities are conducting deep research to assist functional departments in improving and developing its internal process, market and customer)_
 - Conducted primary research (30+ interviews with students and Heads of Departments and 700+ survey responses) to collect data.
-- Analyzed data to prepare 4 research reports with recommendations for product improvement, contributing to a 362% acceleration in the number of children impacted by CyberKid Vietnam. 
-- Managed a team of four members who specialised in Finance, Information Systems and Business Data Analytics.
+- Analyzed data to prepare 4 research reports with recommendations for product improvement, contributing to a 362% acceleration in the number of children impacted. 
 - Successfully designed 1 process to standardise and improve internal processes within an organisation from scratch.
-- Internal Awards: Best Team Performance in November 2021, Best Team Manager in November 2021.
+- **Internal Awards: Best Team Performance in November 2021, Best Team Manager in November 2021.**
 
 **CyberSchool's Marketing Team Leader _(Mar 2021 - Aug 2021)_**
 - Created 2 online marketing campaigns and attracted 404 volunteer applications. 
