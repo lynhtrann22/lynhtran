@@ -16,7 +16,7 @@ WiDS DATATHON 2025 | PYTHON
 
 Built a model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information.
 
-### RETAIL STORE ANALYSIS 
+### Retail Store Analysis 
 _(Mar 2024 – Apr 2024)_
 
 QUANTIUM'S VIRTUAL EXPERIENCE | PYTHON
@@ -27,7 +27,7 @@ Cleaned raw data, analysed transaction and customer data, developed metrics, exa
 
 ![Graph](/assets/img/download_1.png)
 
-### MANUFACTURING DATA ANALYSIS 
+### Manufacturing Data Analysis
 _(Dec 2023)_
 
 DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
@@ -36,7 +36,7 @@ DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
 
 Reconciled data, created a dashboard, wrote a proposal for a client project to create a functioning dashboard and advised a client on a data breach.
 
-### GARCH MODEL 
+### Garch Model
 _(Oct 2023 - Nov 2023)_
 
 STATISTIC | MATLAB
@@ -45,7 +45,7 @@ STATISTIC | MATLAB
 
 Built GARCH model using **Monte Carlo Markov Chain and Variational Bayesian inference with a Gaussian posterior approximation**.
 
-### SUSTAINABLE BEER CUSTOMER ANALYSIS
+### Sustainable Beer Customer Analysis
 _(Oct 2023 - Nov 2023)_
 
 CHOICE MODELLING | PYTHON
@@ -54,7 +54,7 @@ CHOICE MODELLING | PYTHON
 
 Analysed survey data using **discrete choice modelling techniques** (employing Biogeme library) to understand how likely individuals are to purchase sustainable beer based on their characteristics.
 
-### TIME-SERIES ANALYSIS OF GOOGLE KEYWORDS 
+### Time-series Analysis of Google Keywords 
 _(Apr 2023 - May 2023)_
 
 TIME-SERIES FORECASTING | PYTHON 
@@ -65,7 +65,7 @@ Created **an automatic function that selects a model** that produces the least f
 
 ![Graph](/assets/img/download_5.png)
 
-### FUEL ECONOMY ANALYSIS 
+### Fuel Economy Analysis
 _(Oct 2022 - Nov 2022)_
 
 REGRESSION & VARIABLE TRANSFORMATION | PYTHON
@@ -76,7 +76,7 @@ Applied **multilinear regression, nonlinear regression and variable transformati
 
 ![Graph](/assets/img/download_3.png)
 
-### CREDIT RATING ANALYSIS 
+### Credit Rating Analysis
 _(Sep 2022)_
 
 REGRESSION | PYTHON
@@ -85,7 +85,7 @@ REGRESSION | PYTHON
 
 Applied **linear regression, k-nearest neighbour regression, and logistic regression** (using SciPy, Scikit-learn and Statsmodels library) to predict the credit rating of firms.
 
-### PORTFOLIO ALLOCATION 
+### Portfolio Allocation
 _(Sep 2022)_
 
 FINANCIAL ANALYSIS | PYTHON
@@ -96,7 +96,7 @@ Visualized the investment opportunity set and the efficient frontier of 5 stocks
 
 ![Graph](/assets/img/download_4.png)
 
-### MARKETING RESEARCH & INSIGHT REPORT 
+### Marketing Research & Insight Report
 
 DATA REPORT | EXCEL & PYTHON 
 
