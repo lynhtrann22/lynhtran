@@ -9,6 +9,7 @@
 ## Data Analytics Projects
 ### RETAIL STORE ANALYSIS 
 _(Aug 2024 – Sep 2024)_
+
 QUANTIUM'S VIRTUAL EXPERIENCE | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/retail_store)
@@ -19,6 +20,7 @@ Cleaned raw data, analysed transaction and customer data, developed metrics, exa
 
 ### MANUFACTURING DATA ANALYSIS 
 _(May 2024)_
+
 DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
 
 [View Certificate](https://drive.google.com/file/d/1QRTrTvt6hfJoZCb377Fu7pEPdpbuNEMS/view?usp=sharing)
@@ -27,6 +29,7 @@ Reconciled data, created a dashboard, wrote a proposal for a client project to c
 
 ### GARCH MODEL 
 _(Oct 2023 - Nov 2023)_
+
 STATISTIC | MATLAB
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/GARCH-model)
@@ -35,6 +38,7 @@ Built GARCH model using **Monte Carlo Markov Chain and Variational Bayesian infe
 
 ### SUSTAINABLE BEER CUSTOMER ANALYSIS
 _(Oct 2023 - Nov 2023)_
+
 CHOICE MODELLING | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/choice-modelling)
@@ -43,6 +47,7 @@ Analysed survey data using **discrete choice modelling techniques** (employing B
 
 ### TIME-SERIES ANALYSIS OF GOOGLE KEYWORDS 
 _(Apr 2023 - May 2023)_
+
 TIME-SERIES FORECASTING | PYTHON 
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/time-series)
@@ -53,6 +58,7 @@ Created **an automatic function that selects a model** that produces the least f
 
 ### FUEL ECONOMY ANALYSIS 
 _(Oct 2022 - Nov 2022)_
+
 REGRESSION & VARIABLE TRANSFORMATION | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/fuel-economy)
@@ -63,6 +69,7 @@ Applied **multilinear regression, nonlinear regression and variable transformati
 
 ### CREDIT RATING ANALYSIS 
 _(Sep 2022)_
+
 REGRESSION | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/credit-rating)
@@ -71,6 +78,7 @@ Applied **linear regression, k-nearest neighbour regression, and logistic regres
 
 ### PORTFOLIO ALLOCATION 
 _(Sep 2022)_
+
 FINANCIAL ANALYSIS | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/portfolio-allocation)
