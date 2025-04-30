@@ -126,7 +126,7 @@ In teams, we developed an innovation: **a school bike leasing service** to solve
 ![Image](/assets/img/download_8.png)
 
 ## Professional Certifications 
-#### [Google Advanced Data Analytics Professional Certificate]
+#### Google Advanced Data Analytics Professional Certificate
 COUSERA | SEP 2024 - DEC 2024
 
 #### [Quantium Data Analytics Job Simulation](https://drive.google.com/file/d/1YrI-sqmZwFKl1Zw-ziRIgwMsJuv00gNi/view?usp=sharing)
