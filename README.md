@@ -7,8 +7,17 @@
 - Honours: Dalyell Scholar
 
 ## Data Analytics Projects
+### Unravelling the Mysteries of the Female Brain: Sex Patterns in ADHD
+_(Mar 2025 – Apr 2025)_
+
+WiDS DATATHON 2025 | PYTHON
+
+[View Project](https://github.com/lynhtrann22/personal_project/tree/main/WiDS%202025%20Datathon)
+
+Built a model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information.
+
 ### RETAIL STORE ANALYSIS 
-_(Aug 2024 – Sep 2024)_
+_(Mar 2024 – Apr 2024)_
 
 QUANTIUM'S VIRTUAL EXPERIENCE | PYTHON
 
@@ -19,7 +28,7 @@ Cleaned raw data, analysed transaction and customer data, developed metrics, exa
 ![Graph](/assets/img/download_1.png)
 
 ### MANUFACTURING DATA ANALYSIS 
-_(May 2024)_
+_(Dec 2023)_
 
 DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
 
@@ -117,6 +126,9 @@ In teams, we developed an innovation: **a school bike leasing service** to solve
 ![Image](/assets/img/download_8.png)
 
 ## Professional Certifications 
+#### [Google Advanced Data Analytics Professional Certificate]
+COUSERA | SEP 2024 - DEC 2024
+
 #### [Quantium Data Analytics Job Simulation](https://drive.google.com/file/d/1YrI-sqmZwFKl1Zw-ziRIgwMsJuv00gNi/view?usp=sharing)
 FORAGE | MAR 2024 
 
