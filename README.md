@@ -14,7 +14,7 @@ WiDS DATATHON 2025 | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/main/WiDS%202025%20Datathon)
 
-Built a model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information.
+Built a machine learning model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information.
 
 ### Retail Store Analysis 
 _(Mar 2024 – Apr 2024)_
