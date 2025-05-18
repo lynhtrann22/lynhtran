@@ -23,9 +23,7 @@ MACHINE LEARNING | PYTHON
 
 Built a machine learning model to predict both an individual’s sex and their ADHD diagnosis using functional brain imaging data of children and adolescents and their socio-demographic, emotions, and parenting information.
 
-### Retail Store Analysis 
-_(Mar 2024 – Apr 2024)_
-
+### Retail Store Analysis _(Mar 2024 – Apr 2024)_
 QUANTIUM'S VIRTUAL EXPERIENCE | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/retail_store)
@@ -34,36 +32,28 @@ Cleaned raw data, analysed transaction and customer data, developed metrics, exa
 
 ![Graph](/assets/img/download_1.png)
 
-### Manufacturing Data Analysis
-_(Dec 2023)_
-
+### Manufacturing Data Analysis _(Dec 2023)_
 DELOITTE'S VIRTUAL EXPERIENCE | PYTHON & TABLEAU
 
 [View Certificate](https://drive.google.com/file/d/1QRTrTvt6hfJoZCb377Fu7pEPdpbuNEMS/view?usp=sharing)
 
 Reconciled data, created a dashboard, wrote a proposal for a client project to create a functioning dashboard and advised a client on a data breach.
 
-### Garch Model
-_(Oct 2023 - Nov 2023)_
-
+### Garch Model _(Oct 2023 - Nov 2023)_
 STATISTIC | MATLAB
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/GARCH-model)
 
 Built GARCH model using **Monte Carlo Markov Chain and Variational Bayesian inference with a Gaussian posterior approximation**.
 
-### Sustainable Beer Customer Analysis
-_(Oct 2023 - Nov 2023)_
-
+### Sustainable Beer Customer Analysis _(Oct 2023 - Nov 2023)_
 CHOICE MODELLING | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/choice-modelling)
 
 Analysed survey data using **discrete choice modelling techniques** (employing Biogeme library) to understand how likely individuals are to purchase sustainable beer based on their characteristics.
 
-### Time-series Analysis of Google Keywords 
-_(Apr 2023 - May 2023)_
-
+### Time-series Analysis of Google Keywords _(Apr 2023 - May 2023)_
 TIME-SERIES FORECASTING | PYTHON 
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/time-series)
@@ -72,9 +62,7 @@ Created **an automatic function that selects a model** that produces the least f
 
 ![Graph](/assets/img/download_5.png)
 
-### Fuel Economy Analysis
-_(Oct 2022 - Nov 2022)_
-
+### Fuel Economy Analysis _(Oct 2022 - Nov 2022)_
 REGRESSION & VARIABLE TRANSFORMATION | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/fuel-economy)
@@ -83,18 +71,14 @@ Applied **multilinear regression, nonlinear regression and variable transformati
 
 ![Graph](/assets/img/download_3.png)
 
-### Credit Rating Analysis
-_(Sep 2022)_
-
+### Credit Rating Analysis _(Sep 2022)_
 REGRESSION | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/credit-rating)
 
 Applied **linear regression, k-nearest neighbour regression, and logistic regression** (using SciPy, Scikit-learn and Statsmodels library) to predict the credit rating of firms.
 
-### Portfolio Allocation
-_(Sep 2022)_
-
+### Portfolio Allocation _(Sep 2022)_
 FINANCIAL ANALYSIS | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/c7f2a4644f378dd98b8acb3f1d9d7cf398aeefcf/portfolio-allocation)
@@ -104,7 +88,6 @@ Visualized the investment opportunity set and the efficient frontier of 5 stocks
 ![Graph](/assets/img/download_4.png)
 
 ### Marketing Research & Insight Report
-
 DATA REPORT | EXCEL & PYTHON 
 
 [View Report](https://github.com/lynhtrann22/personal_project/tree/6d52b05140b24f27c0845f435aad7ea218af0f1b/data-report)
@@ -113,7 +96,6 @@ Collected, prepared, and analysed data, and provided insights and recommendation
 
 ## Innovative Projects
 ### CYBERTEACH 
-
 WINNING TEAM | INNOVATIONS IN ORGANISATION S1 2022 
 
 [View Project](https://lynhtrann22.github.io/cyberteach/)
@@ -123,7 +105,6 @@ As a team of innovative consultants, we came up with a solution which is **an ad
 ![Image](/assets/img/download_7.png)
 
 ### RIDE & GROW 
-
 FINALIST | ENGAGE ASIA CHALLENGE S2 2022 
 
 [View Project](https://lynhtrann22.github.io/ride-grow/)
