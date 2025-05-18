@@ -7,8 +7,7 @@
 - Honours: Dalyell Scholar
 
 ## Data Analytics Projects
-### Visualising Audience Engagement Across Media Content 
-#### _(May 2025)_
+### Visualising Audience Engagement Across Media Content _(May 2025)_
 DATA VISUALISATION | TABLEAU
 
 [View Project](https://public.tableau.com/views/MovieData_17465948147290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -17,9 +16,7 @@ This project explores viewer data across Heliotrope’s 90 shows to identify eng
 
 ![Graph](/assets/img/dashboard_1.png)
 
-### WiDS Datathon 2025: Unravelling the Mysteries of the Female Brain: Sex Patterns in ADHD
-_(Mar 2025 – Apr 2025)_
-
+### WiDS Datathon 2025: Unravelling the Mysteries of the Female Brain: Sex Patterns in ADHD _(Mar 2025 – Apr 2025)_
 MACHINE LEARNING | PYTHON
 
 [View Project](https://github.com/lynhtrann22/personal_project/tree/main/WiDS%202025%20Datathon)
