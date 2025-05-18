@@ -7,6 +7,17 @@
 - Honours: Dalyell Scholar
 
 ## Data Analytics Projects
+### Visualising Audience Engagement Across Media Content
+_(May 2025)_
+
+DATA VISUALISATION | TABLEAU
+
+[View Project](https://public.tableau.com/views/MovieData_17465948147290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+This project explores viewer data across Heliotrope’s 90 shows to identify engagement trends, spotlight high- and low-performing content, and guide strategic decisions. The project aims to uncover what resonates with audiences to inform future content development and marketing strategies.
+
+![Graph](/assets/img/download_1.png)
+
 ### Unravelling the Mysteries of the Female Brain: Sex Patterns in ADHD
 _(Mar 2025 – Apr 2025)_
 
