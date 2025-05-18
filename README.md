@@ -7,8 +7,8 @@
 - Honours: Dalyell Scholar
 
 ## Data Analytics Projects
-### Visualising Audience Engagement Across Media Content _(May 2025)_
-
+### Visualising Audience Engagement Across Media Content 
+#### _(May 2025)_
 DATA VISUALISATION | TABLEAU
 
 [View Project](https://public.tableau.com/views/MovieData_17465948147290/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
